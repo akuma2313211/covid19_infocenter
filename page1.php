@@ -1,3 +1,8 @@
+<?php
+ session_start();
+ error_reporting(0);
+ include("menu.php");
+?>
 <!DOCTYPE html>
 <html class="theme-cyan cdc-page-type-content cdc-2020" lang="en-us">
 
@@ -14,53 +19,7 @@
     <meta name="keywords" content="">	
 </head>
 
-<body>
- 
-    <div class="container-fluid site-title">
-    <!-- <div class=""> -->
-        <div class="container">
-            <div class="row">
-                <h3>L2-team08</h3>
-            </div>
-        </div>
-    </div>
-  
-    <div id="cdc-meganav-wrapper">
-        
-        <div class="container" id="cdc-meganav-bar">
-            
-            <nav class="navbar navbar-expand-xl yamm">
-            
-                <ul class="nav navbar-nav nav-justified w-100">
-                  
-                    <li class="nav-item" id="menu_home">
-                        <a class="nav-link" href="home.html">
-                            Home						</a>
-                    </li>
-
-                    <li class="nav-item" id="menu1">
-                        <a class="nav-link" href="page1.html">
-
-                           COVID-19 mRNA Vaccines	</a>
-
-                    </li>
-
-                    <li class="nav-item" id="menu2">
-                        <a class="nav-link" href="page2.html">
-                            COVID-19 Viral Vector Vaccines</a>
-                    </li>
-
-                    <li class="nav-item" id="menu3">
-                        <a class="nav-link" href="page3.html">
-                            Protein Subunit Vaccines						</a>
-                    </li>
-
-
-                </ul>
-            </nav>
-        </div>
-    </div>
-	       
+<body>  
     <!-- Page Content Wrap -->
     <div class="container d-flex flex-wrap body-wrapper bg-white">
     
@@ -125,7 +84,7 @@
                                             </div>
                                             <div class="pl-md-0 col-md-3 d-none d-md-block">
                                                 <div class="text-center">
-                                                    <img src="home_files/clipboard.png" alt="Clipboard with checkmarks" class="card-img-top img-fluid p-0 bg-primary card-img-orig d-none d-md-block rounded-0">
+                                                    <img src="pictures/mRNA vaccine1.jpg" alt="Clipboard with checkmarks" class="card-img-top img-fluid p-0 bg-primary card-img-orig d-none d-md-block rounded-0">
                                                 </div>
                                             </div>
                                         </div>
@@ -151,6 +110,7 @@
                                 </div>
                                 <div class="card border-0 rounded-0 mb-3">
                                     <div class="card-body ">
+									<img height="300px" src="pictures/mRNA vaccine2.jpg"/>
                                         <h2 class="card-title h3 mb-3 text-left">What is different about mRNA vaccines?</h2>
                                         <p>Some vaccines use a whole virus or bacterium to teach our bodies how to build up immunity to the pathogen.
 										These pathogens are inactivated or attenuated, which means weakened. Other vaccines use parts of viruses or bacteria.</p>
@@ -177,6 +137,7 @@
                             <div class="col-md-12">
                                 <div class="card border-0 rounded-0">
                                     <div class="card-body bg-quaternary">
+									<img height="300px" src="pictures/mRNA vaccine3.jpg"/>
                                         <h2 class="card-title h3 mb-3 text-left">Benefits of Getting mRNA COVID-19 Vaccine</h2>
 										<p>After receiving 2 doses, this vaccine can reduce the risk of:</p>
 										<br>

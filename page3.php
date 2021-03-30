@@ -1,3 +1,8 @@
+<?php
+ session_start();
+ error_reporting(0);
+ include("menu.php");
+?>
 <!DOCTYPE html>
 <html class="theme-cyan cdc-page-type-content cdc-2020" lang="en-us">
 
@@ -15,48 +20,7 @@
 </head>
 
 <body>
- 
-    <div class="container-fluid site-title">
-    <!-- <div class=""> -->
-        <div class="container">
-            <div class="row">
-                <h3>L2-team08</h3>
-            </div>
-        </div>
-    </div>
-  
-    <div id="cdc-meganav-wrapper">
-        
-        <div class="container" id="cdc-meganav-bar">
-            
-            <nav class="navbar navbar-expand-xl yamm">
-            
-                <ul class="nav navbar-nav nav-justified w-100">
-                  
-                    <li class="nav-item" id="menu_home">
-                        <a class="nav-link" href="home.html">
-                            Home						</a>
-                    </li>
 
-                    <li class="nav-item" id="menu1">
-                        <a class="nav-link" href="page1.html">
-                            COVID-19 mRNA Vaccines	</a>
-                    </li>
-
-                    <li class="nav-item" id="menu2">
-                        <a class="nav-link" href="page2.html">
-                            COVID-19 Viral Vector Vaccines	</a>
-                    </li>
-
-                    <li class="nav-item" id="menu3">
-                        <a class="nav-link" href="page3.html">
-                           COVID-19 Protein Subunit Vaccines
-						</a>
-                    </li>
-                </ul>
-            </nav>
-        </div>
-    </div>
 	       
     <!-- Page Content Wrap -->
     <div class="container d-flex flex-wrap body-wrapper bg-white">
