@@ -34,26 +34,26 @@
                 <ul class="nav navbar-nav nav-justified w-100">
                   
                     <li class="nav-item" id="menu_home">
-                        <a class="nav-link" href="home.php">
+                        <a class="nav-link <?php if($_SESSION['x'] == 0)echo "active"; ?>" href="home.php">
                             Home						</a>
                     </li>
 
                     <li class="nav-item" id="menu1">
-                        <a class="nav-link" href="page1.php">
-                            COVID-19 mRNA Vaccines	</a>
+                        <a class="nav-link <?php if($_SESSION['x'] == 1)echo "active"; ?>" href="page1.php">
+                            COVID-19 mRNA Vaccines</a>
                     </li>
 
                     <li class="nav-item" id="menu2">
-                        <a class="nav-link" href="page2.php">
+                        <a class="nav-link <?php if($_SESSION['x'] == 2)echo "active"; ?>" href="page2.php">
 							COVID-19 Viral Vector Vaccines</a>
                     </li>
 
                     <li class="nav-item" id="menu3">
-                        <a class="nav-link" href="page3.php">
+                        <a class="nav-link <?php if($_SESSION['x'] == 3)echo "active"; ?>" href="page3.php">
                             COVID-19 Protein Subunit Vaccine</a>
                     </li>
 					<li class="nav-item" id="menu4">
-                        <a class="nav-link" href="page4.php">
+                        <a class="nav-link <?php if($_SESSION['x'] == 4)echo "active"; ?>" href="page4.php">
                             Register for Vaccine</a>
                     </li>
 

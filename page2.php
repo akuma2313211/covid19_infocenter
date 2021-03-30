@@ -1,6 +1,7 @@
 <?php
  session_start();
  error_reporting(0);
+  $_SESSION['x']=2;
  include("menu.php");
 ?>
 <!DOCTYPE html>
