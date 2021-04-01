@@ -62,8 +62,8 @@
                                     <div class="card-body bg-primary">
                                         <div class="row">
                                             <div class="d-none">
-                                                <div class="text-center">                                                    					    
-						    <img src="https://github.com/akuma2313211/covid19_infocenter/blob/main/ViralVectorVaccine.png" alt="ViralVectorVaccine" />
+                                                <div class="text-center">
+						    <img src="home_files/clipboard.png" alt="Clipboard with checkmarks" class="card-img-top img-fluid p-0 bg-primary card-img-orig d-none d-md-block rounded-0">						    <img src="https://github.com/akuma2313211/covid19_infocenter/blob/main/ViralVectorVaccine.png" alt="ViralVectorVaccine" />
                                                 </div>
                                             </div>
                                                 <p>Viral vector vaccines are a type of vaccine likely to be among the COVID-19 vaccines authorized for use in the United States.
