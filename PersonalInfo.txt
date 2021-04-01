@@ -1,0 +1,10 @@
+IC: 123456789123
+Name: simon
+Email: simon@gmail.com
+Contact Number: 0123456789
+
+IC: 789456123012
+Name: siwei
+Email: siwei@gmail.com
+Contact Number: 0563214789
+
