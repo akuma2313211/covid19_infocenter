@@ -62,8 +62,7 @@
                                     <div class="card-body bg-primary">
                                         <div class="row">
                                             <div class="d-none">
-                                                <div class="text-center">
-                                                    <img src="home_files/clipboard.png" alt="Clipboard with checkmarks" class="card-img-top img-fluid p-0 bg-primary card-img-orig d-none d-md-block rounded-0">						    
+                                                <div class="text-center">                                                    					    
 						    <img src="https://github.com/akuma2313211/covid19_infocenter/blob/main/ViralVectorVaccine.png" alt="ViralVectorVaccine" />
                                                 </div>
                                             </div>
