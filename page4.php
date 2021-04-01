@@ -21,14 +21,10 @@
 </head>
 
 <body> 
-	<script>
-		function myFunction() {
-			alert("Added Successfully");
-		}
-	</script>
-	
 	<?php		
 		if(isset($_POST['btnsubmit'])){		
+			echo "<script>alert('Added Successfully');location='home.php';</script>'";
+			
 			$myfile = fopen("PersonalInfo.txt", "a") or die("Unable to open file!");
 			
 			$txt = "IC: ".$_POST['txtic']."\nName: ".$_POST['txtname']."\nEmail: ".$_POST['txtemail']."\nContact Number: ".$_POST['txtcontact']."\n\n";
