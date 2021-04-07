@@ -19,7 +19,6 @@
     <meta name="description" content="">
     <meta name="keywords" content="">	
 </head>
-
 <body> 
 	<?php		
 		if(isset($_POST['btnsubmit'])){		
