@@ -8,8 +8,11 @@ Name: simon
 Email: simon@gmail.com
 Contact Number: 0135869625
 
+<<<<<<< HEAD
 IC: 981108136522
 Name: asd
 Email: luworkuse123@gmail.com
 Contact Number: 01985992322
 
+=======
+>>>>>>> simon_work

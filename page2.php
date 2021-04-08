@@ -35,7 +35,7 @@
                 
                     <div class="row">
                         <br>
-                        <h2 id="content" class="open d-lg-block">COVID-19 Viral Vector Vaccines</h2>
+                        <h2 id="content" class="open d-lg-block"><b>COVID-19 Viral Vector Vaccines</b></h2>
                         <br>
                         <br>
                         <br>
@@ -108,7 +108,11 @@
                                 <div class="card border-0 rounded-0">
                                     <div class="card-body bg-quaternary">
 									<img height="450px" src="pictures/Viral vector vaccines for COVID19.png"/>
+<<<<<<< HEAD
                                         <h2 class="card-title h3 mb-3 text-left">How it Works</h2>
+=======
+                                        <h2 class="card-title h3 mb-3 text-left"><b><u>How it Works</u></b></h2>
+>>>>>>> simon_work
 										<p>Viral vector vaccines use a modified version of a different virus (the vector) to deliver important instructions to our cells. 
 										For COVID-19 viral vector vaccines, the vector (not the virus that causes COVID-19, but a different, harmless virus) will enter a 
 										cell in our body and then use the cell’s machinery to produce a harmless piece of the virus that causes COVID-19. This piece is known 
@@ -130,7 +134,7 @@
 										
 										<br>
 
-										<h2 class="card-title h3 mb-3 text-left">Effectiveness of Viral Vector Vaccine</h2>
+										<h2 class="card-title h3 mb-3 text-left"><b><u>Effectiveness of Viral Vector Vaccine</u></b></h2>
 										<p>
 										In the development of viral vector vaccines, several different viruses have been used as vectors, 
 										including influenza, vesicular stomatitis virus (VSV), measles virus, and adenovirus, which causes
@@ -152,8 +156,8 @@
 										</p>
 										
 										<br>
-										
-										<h2 class="card-title h3 mb-3 text-left">Benefits of Viral Vector Vaccine</h2>
+										<img height="150px" src="pictures/vaccine.png"/>
+										<h2 class="card-title h3 mb-3 text-left"><b><u>Benefits of Viral Vector Vaccine</u></b></h2>
 										<ul>
 											<li>High efficiency gene transduction</li>
 											<li>Highly specific delivery of genes to target cells</li>
@@ -163,7 +167,9 @@
 											<li>Enable large-scale manufacturing</li>
 											<li>Potential targets ranging from cancers to a vast number of infectious diseases</li>
 										</ul>
-
+										<br>
+										<h2 class="card-title h3 mb-3 text-left"><b><u>Youtube Resource</u></b></h2>
+										<iframe width="560" height="315" src="https://www.youtube.com/embed/Q6qk6Wh6cXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>

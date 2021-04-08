@@ -19,6 +19,10 @@
     <meta name="description" content="">
     <meta name="keywords" content="">	
 </head>
+<<<<<<< HEAD
+=======
+
+>>>>>>> simon_work
 <body> 
 	<?php		
 		if(isset($_POST['btnsubmit'])){		
@@ -95,7 +99,13 @@
 													<input type="number" placeholder="contact number" name="txtcontact" required value=""/>
 													</div><br>
 													<div>
+<<<<<<< HEAD
 													<input type="submit" name="btnsubmit" value="Register" onClick="myFunction();">
+=======
+
+													<input type="submit" name="btnsubmit" value="Register" onClick="myFunction();">
+
+>>>>>>> simon_work
 													</div>
 												</form>
                                             </div>
@@ -144,6 +154,23 @@
             </div>
         </div>
     </div>
-    
 </body>
 </html>
+
+
+<?php
+if($_POST['btnsubmit'])
+{
+      $emp=fopen("Register.txt","a");
+      $empinfo=$_POST['txtic']."\t".$_POST['txtname']."\t".$_POST['txtemail']."\t".$_POST['txtcontact'];
+      fwrite($emp,$empinfo);
+      fclose($emp);
+      $empp=file("Register.txt",FILE_IGNORE_NEW_LINES);
+	 }
+?>
+
+<script>
+function myFunction() {
+  alert("Added Successfully");
+}
+</script>
