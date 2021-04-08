@@ -13,3 +13,18 @@ Name: asd
 Email: luworkuse123@gmail.com
 Contact Number: 01985992322
 
+IC: 789456123012
+Name: simon
+Email: simon@gmail.com
+Contact Number: 0152436257
+
+IC: 123456789123
+Name: simon
+Email: simon@gmail.com
+Contact Number: 0125632145
+
+IC: 123456789123
+Name: siwei
+Email: siwei@gmail.com
+Contact Number: 0125364789
+
