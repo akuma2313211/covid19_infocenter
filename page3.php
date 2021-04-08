@@ -67,7 +67,7 @@
                                                 </div>
                                             </div>
                                             <div class="col">
-                                                <h3 class="card-title h3 mb-3 text-left">What Are Protein Subunit Vaccines</h3>
+                                                <u><h3 class="card-title h3 mb-3 text-left">What Are Protein Subunit Vaccines</h3></u>
                                                 <p>Rather than injecting a whole pathogen to trigger an immune response, subunit vaccines (sometimes called acellular vaccines) contain purified pieces of it, which have been specially selected for their ability to stimulate immune cells. 
 													Because these fragments are incapable of causing disease, subunit vaccines are considered very safe. 
 													There are several types: protein subunit vaccines contain specific isolated proteins from viral or bacterial pathogens; polysaccharide vaccines contain chains of sugar molecules (polysaccharides) found in the cell walls of some bacteria; conjugate subunit vaccines bind a polysaccharide chain to a carrier protein to try and boost the immune response. 
@@ -104,10 +104,10 @@
                                     <div></div>
                                     <div></div>
                                 </div>
+								<img height="450px" src="pictures/Protein vaccines for COVID19.png"/>
                                 <div class="card border-0 rounded-0 mb-3">
                                     <div class="card-body ">
-									<img height="450px" src="pictures/Protein vaccines for COVID19.png"/>
-                                        <h2 class="card-title h3 mb-3 text-left">How Protein Subunit Vaccines Work</h2>
+                                        <u><h2 class="card-title h3 mb-3 text-left">How Protein Subunit Vaccines Work</h2></u>
                                         <p>
 											Vaccines equip the immune system to recognize future infections with pathogens. 
 											Some vaccines use the whole pathogen to do this, but others only use one part.
@@ -144,7 +144,7 @@
                             <div class="col-md-12">
                                 <div class="card border-0 rounded-0">
                                     <div class="card-body bg-quaternary">
-                                        <h2 class="card-title h3 mb-3 text-left">Benefits of Protein Subunit Vaccines</h2>
+                                        <u><h2 class="card-title h3 mb-3 text-left">Benefits of Protein Subunit Vaccines</h2></u>
                                         <ul>
                                             <li>Well-established technology</li>
 											<li>Suitable for people with compromised immune systems</li>
@@ -160,11 +160,11 @@
                             </div>
                         </div>
 						<br>
-						 <div class="row ">
+						<div class="row ">
                             <div class="col-md-12">
                                 <div class="card border-0 rounded-0 mb-3">
                                     <div class="card-body ">
-                                        <h2 class="card-title h3 mb-3 text-left">Effectiveness of Protein Subunit Vaccines</h2>
+                                        <u><h2 class="card-title h3 mb-3 text-left">Effectiveness of Protein Subunit Vaccines</h2></u>
                                         <p>
 											Subunit vaccines, like inactivated whole-cell vaccines, do not contain live components of the pathogen. 
 											They differ from inactivated whole-cell vaccines, by containing only the antigenic parts of the pathogen. 
@@ -179,6 +179,16 @@
 											Often a response can be elicited, but there is no guarantee that immunological memory will be formed in the correct manner.
 										</p>
                                     
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+						<div class="row ">
+                            <div class="col-md-12">
+                                <div class="card border-0 rounded-0 mb-3">
+                                    <div class="card-body ">
+                                        <u><h2 class="card-title h3 mb-3 text-left">Video of Protein Subunit Vaccines</h2></u>
+                                        <iframe width="900" height="506" src="https://www.youtube.com/embed/e5gzJgBXQqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -211,6 +221,8 @@
             </div>
         </div>
     </div>
+	<br>
+	<br>
     
 </body>
 </html>
