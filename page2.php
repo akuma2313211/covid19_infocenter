@@ -157,7 +157,11 @@
 										
 										<br>
 										<img height="150px" src="pictures/vaccine.png"/>
+<<<<<<< HEAD
 										<h2 class="card-title h3 mb-3 text-left"><b><u>Benefits of Viral Vector Vaccine</u></b></h2>
+=======
+										<h2 class="card-title h3 mb-3 text-left">Benefits of Viral Vector Vaccine</h2>
+>>>>>>> 5b9c3253f8716cf4956ffeca0e6d3c9ce02c1a72
 										<ul>
 											<li>High efficiency gene transduction</li>
 											<li>Highly specific delivery of genes to target cells</li>

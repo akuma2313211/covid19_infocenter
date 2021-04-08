@@ -100,12 +100,19 @@
 													</div><br>
 													<div>
 <<<<<<< HEAD
+<<<<<<< HEAD
 													<input type="submit" name="btnsubmit" value="Register" onClick="myFunction();">
 =======
 
 													<input type="submit" name="btnsubmit" value="Register" onClick="myFunction();">
 
 >>>>>>> simon_work
+=======
+													<input type="submit" name="btnsubmit" value="Register" onClick="myFunction();">
+=======
+													<input type="submit" name="btnsubmit" onclick="myFunction()" value="Register">
+>>>>>>> origin/simon_work
+>>>>>>> 5b9c3253f8716cf4956ffeca0e6d3c9ce02c1a72
 													</div>
 												</form>
                                             </div>
