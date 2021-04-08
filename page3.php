@@ -80,7 +80,7 @@
                                             </div>
                                             <div class="pl-md-0 col-md-3 d-none d-md-block">
                                                 <div class="text-center">
-                                                    <img src="home_files/clipboard.png" alt="Clipboard with checkmarks" class="card-img-top img-fluid p-0 bg-primary card-img-orig d-none d-md-block rounded-0">
+                                                    <img src="pictures/ProteinSub1.png" alt="Clipboard with checkmarks" class="card-img-top img-fluid p-0 bg-primary card-img-orig d-none d-md-block rounded-0">
                                                 </div>
                                             </div>
                                         </div>
@@ -106,6 +106,7 @@
                                 </div>
                                 <div class="card border-0 rounded-0 mb-3">
                                     <div class="card-body ">
+									<img height="450px" src="pictures/Protein vaccines for COVID19.png"/>
                                         <h2 class="card-title h3 mb-3 text-left">How Protein Subunit Vaccines Work</h2>
                                         <p>
 											Vaccines equip the immune system to recognize future infections with pathogens. 

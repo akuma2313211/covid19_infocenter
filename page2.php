@@ -35,7 +35,7 @@
                 
                     <div class="row">
                         <br>
-                        <h2 id="content" class="open d-lg-block">COVID-19 Viral Vector Vaccines</h2>
+                        <h2 id="content" class="open d-lg-block"><b>COVID-19 Viral Vector Vaccines</b></h2>
                         <br>
                         <br>
                         <br>
@@ -63,7 +63,7 @@
                                         <div class="row">
                                             <div class="d-none">
                                                 <div class="text-center">
-                                                    <img src="home_files/clipboard.png" alt="Clipboard with checkmarks" class="card-img-top img-fluid p-0 bg-primary card-img-orig d-none d-md-block rounded-0">
+													<img src="home_files/clipboard.png" alt="Clipboard with checkmarks" class="card-img-top img-fluid p-0 bg-primary card-img-orig d-none d-md-block rounded-0">						    <img src="https://github.com/akuma2313211/covid19_infocenter/blob/main/ViralVectorVaccine.png" alt="ViralVectorVaccine" />
                                                 </div>
                                             </div>
                                                 <p>Viral vector vaccines are a type of vaccine likely to be among the COVID-19 vaccines authorized for use in the United States.
@@ -76,6 +76,11 @@
 												and safe vaccines for many important diseases. Creative Biolabs is professional in a wide range of vaccine technologies including 
 												Viral Vector Vaccine. Our scientists are confident in offering the best services and products upon request.</p>
                                         </div>
+										<div class="pl-md-0 col-md-3 d-none d-md-block">
+                                                <div class="text-center">
+                                                    <img src="pictures/ViralVectorVaccine.png" alt="Clipboard with checkmarks" class="card-img-top img-fluid p-0 bg-primary card-img-orig d-none d-md-block rounded-0">
+                                                </div>
+                                            </div>
                                     </div>
                                 </div>
                             </div>
@@ -102,7 +107,8 @@
                             <div class="col-md-12">
                                 <div class="card border-0 rounded-0">
                                     <div class="card-body bg-quaternary">
-                                        <h2 class="card-title h3 mb-3 text-left">How it Works</h2>
+									<img height="450px" src="pictures/Viral vector vaccines for COVID19.png"/>
+                                        <h2 class="card-title h3 mb-3 text-left"><b><u>How it Works</u></b></h2>
 										<p>Viral vector vaccines use a modified version of a different virus (the vector) to deliver important instructions to our cells. 
 										For COVID-19 viral vector vaccines, the vector (not the virus that causes COVID-19, but a different, harmless virus) will enter a 
 										cell in our body and then use the cell’s machinery to produce a harmless piece of the virus that causes COVID-19. This piece is known 
@@ -124,7 +130,7 @@
 										
 										<br>
 
-										<h2 class="card-title h3 mb-3 text-left">Effectiveness of Viral Vector Vaccine</h2>
+										<h2 class="card-title h3 mb-3 text-left"><b><u>Effectiveness of Viral Vector Vaccine</u></b></h2>
 										<p>
 										In the development of viral vector vaccines, several different viruses have been used as vectors, 
 										including influenza, vesicular stomatitis virus (VSV), measles virus, and adenovirus, which causes
@@ -146,8 +152,8 @@
 										</p>
 										
 										<br>
-										
-										<h2 class="card-title h3 mb-3 text-left">Benefits of Viral Vector Vaccine</h2>
+										<img height="150px" src="pictures/vaccine.png"/>
+										<h2 class="card-title h3 mb-3 text-left"><b><u>Benefits of Viral Vector Vaccine</u></b></h2>
 										<ul>
 											<li>High efficiency gene transduction</li>
 											<li>Highly specific delivery of genes to target cells</li>
@@ -157,7 +163,9 @@
 											<li>Enable large-scale manufacturing</li>
 											<li>Potential targets ranging from cancers to a vast number of infectious diseases</li>
 										</ul>
-
+										<br>
+										<h2 class="card-title h3 mb-3 text-left"><b><u>Youtube Resource</u></b></h2>
+										<iframe width="560" height="315" src="https://www.youtube.com/embed/Q6qk6Wh6cXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>

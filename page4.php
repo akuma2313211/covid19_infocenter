@@ -20,7 +20,19 @@
     <meta name="keywords" content="">	
 </head>
 
-<body>  
+<body> 
+	<?php		
+		if(isset($_POST['btnsubmit'])){		
+			echo "<script>alert('Added Successfully');location='home.php';</script>'";
+			
+			$myfile = fopen("PersonalInfo.txt", "a") or die("Unable to open file!");
+			
+			$txt = "IC: ".$_POST['txtic']."\nName: ".$_POST['txtname']."\nEmail: ".$_POST['txtemail']."\nContact Number: ".$_POST['txtcontact']."\n\n";
+			
+			fwrite($myfile, $txt);
+			fclose($myfile);
+		}
+	?>
     <!-- Page Content Wrap -->
     <div class="container d-flex flex-wrap body-wrapper bg-white">
     
@@ -84,7 +96,9 @@
 													<input type="number" placeholder="contact number" name="txtcontact" required value=""/>
 													</div><br>
 													<div>
-													<input type="submit" name="btnsubmit" onclick="myFunction()" value="Register">
+
+													<input type="submit" name="btnsubmit" value="Register" onClick="myFunction();">
+
 													</div>
 												</form>
                                             </div>
