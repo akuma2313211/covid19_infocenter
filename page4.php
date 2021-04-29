@@ -28,7 +28,7 @@
 			else{   //filename not found, write to file
 			   $txt = "IC: ".$_POST['txtic']."\nName: ".$_POST['txtname']."\nEmail: ".$_POST['txtemail']."\nContact Number: ".$_POST['txtcontact']."\n\n";
 			   file_put_contents($_POST['txtic'] . '.txt', $txt);
-			   echo '<script>alert("Registration is successful!");</script>';
+			   echo '<script>alert("Registration is successful!"); location="home.php";</script>';
 			}
 			fclose($myfile);
 		}
