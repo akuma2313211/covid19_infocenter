@@ -166,6 +166,12 @@
 			<iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&pickerSort=desc&pickerMetric=population&Metric=People+vaccinated&Interval=Cumulative&Relative+to+Population=true&Align+outbreaks=false&country=~MYS&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 			</div>
 			</div>
+            <div class="card border-0 rounded-0 mb-3">
+            <div class="card-body ">
+			<h2 class="card-title h3 mb-3 text-left">Malaysia's covid19 cases</h2>
+			<iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&pickerSort=desc&pickerMetric=new_cases_smoothed_per_million&Metric=Confirmed+cases&Interval=7-day+rolling+average&Relative+to+Population=true&Align+outbreaks=false&country=~MYS&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+			</div>
+			</div>
           <br>
           <br>
           <br>
