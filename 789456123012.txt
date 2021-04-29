@@ -1,0 +1,5 @@
+IC: 789456123012
+Name: simon
+Email: simon@gmail.com
+Contact Number: 012345678
+

@@ -21,14 +21,15 @@
 </head>
 <body> 
 	<?php		
-		if(isset($_POST['btnsubmit'])){		
-			echo "<script>alert('Added Successfully');location='home.php';</script>'";
-			
-			$myfile = fopen("PersonalInfo.txt", "a") or die("Unable to open file!");
-			
-			$txt = "IC: ".$_POST['txtic']."\nName: ".$_POST['txtname']."\nEmail: ".$_POST['txtemail']."\nContact Number: ".$_POST['txtcontact']."\n\n";
-			
-			fwrite($myfile, $txt);
+		if(isset($_POST['btnsubmit'])){				
+			if (file_exists($_POST['txtic'] . '.txt')){     //Check for filename with given nric
+				echo '<script>alert("You are already registered!");</script>';
+			}
+			else{   //filename not found, write to file
+			   $txt = "IC: ".$_POST['txtic']."\nName: ".$_POST['txtname']."\nEmail: ".$_POST['txtemail']."\nContact Number: ".$_POST['txtcontact']."\n\n";
+			   file_put_contents($_POST['txtic'] . '.txt', $txt);
+			   echo '<script>alert("Registration is successful!");</script>';
+			}
 			fclose($myfile);
 		}
 	?>
