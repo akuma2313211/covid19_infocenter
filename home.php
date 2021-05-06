@@ -36,7 +36,7 @@
                 
                     <div class="row">
                         <br>
-                        <h2 id="content" class="open d-lg-block">COVID-19 Vaccine
+                        <h2 id="content" class="open d-lg-block"><strong>COVID-19 Vaccine</strong>
 						</h2>
                         <br>
                         <br>
@@ -60,7 +60,7 @@
                                             </div>
                                             <div class="col">
                                                 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWGTciX795o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                <h3 class="card-title h3 mb-3 text-left">The Immune System—the Body’s Defense Against Infection</h3>
+                                                <h3 class="card-title h3 mb-3 text-left"><strong>The Immune System—the Body’s Defense Against Infection</strong></h3>
                                                 <p>To understand how COVID-19 vaccines work, it helps to first look at how our bodies fight illness.
 												When germs, such as the virus that causes COVID-19, invade our bodies, they attack and multiply.
 												This invasion, called an infection, is what causes illness. Our immune system uses several tools to fight infection.
@@ -110,7 +110,7 @@
                                 <div class="card border-0 rounded-0 mb-3">
                                     <div class="card-body ">
 										<img src="pictures/home vaccine.jpg"/>
-                                        <h2 class="card-title h3 mb-3 text-left">How COVID-19 Vaccines Work</h2>
+                                        <h2 class="card-title h3 mb-3 text-left"><strong>How COVID-19 Vaccines Work</strong></h2>
                                         <p>COVID-19 vaccines help our bodies develop immunity to the virus that causes COVID-19 without us having to get the illness. 
 										Different types of vaccines work in different ways to offer protection.
 										But with all types of vaccines, the body is left with a supply of “memory” T-lymphocytes as well as B-lymphocytes that will remember how to fight that virus in the future.</p>
@@ -131,7 +131,7 @@
                                 <div class="card border-0 rounded-0">
                                     <div class="card-body bg-quaternary">
 									<img src="pictures/home vaccine2.png"/>
-                                        <h2 class="card-title h3 mb-3 text-left">Types of Vaccines</h2>
+                                        <h2 class="card-title h3 mb-3 text-left"><strong>Types of Vaccines</strong></h2>
 										<p>Currently, there are three main types of COVID-19 vaccines that are authorized and recommended, or undergoing large-scale (Phase 3) clinical trials in the United States.
 										Below is a description of how each type of vaccine prompts our bodies to recognize and protect us from the virus that causes COVID-19.
 										None of these vaccines can give you COVID-19.</p>
@@ -162,13 +162,13 @@
             </div>
 			<div class="card border-0 rounded-0 mb-3">
             <div class="card-body ">
-			<h2 class="card-title h3 mb-3 text-left">Malaysia's vaccination progress</h2>
+			<h2 class="card-title h3 mb-3 text-left"><strong>Malaysia's vaccination progress</strong></h2>
 			<iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&pickerSort=desc&pickerMetric=population&Metric=People+vaccinated&Interval=Cumulative&Relative+to+Population=true&Align+outbreaks=false&country=~MYS&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 			</div>
 			</div>
             <div class="card border-0 rounded-0 mb-3">
             <div class="card-body ">
-			<h2 class="card-title h3 mb-3 text-left">Malaysia's covid19 cases</h2>
+			<h2 class="card-title h3 mb-3 text-left"><strong>Malaysia's covid19 cases</strong></h2>
 			<iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&pickerSort=desc&pickerMetric=new_cases_smoothed_per_million&Metric=Confirmed+cases&Interval=7-day+rolling+average&Relative+to+Population=true&Align+outbreaks=false&country=~MYS&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 			</div>
 			</div>

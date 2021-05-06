@@ -45,7 +45,7 @@
                 
                     <div class="row">
                         <br>
-                        <h2 id="content" class="open d-lg-block">Register for vaccine</h2>
+                        <h2 id="content" class="open d-lg-block"><strong>Register for vaccine</strong></h2>
                         <br>
                         <br>
                         <br>
@@ -77,7 +77,7 @@
                                                 </div>
                                             </div>
                                             <div class="col">
-                                                <h3 class="card-title h3 mb-3 text-left">Information</h3>
+                                                <h3 class="card-title h3 mb-3 text-left"><strong>Information</strong></h3>
 												<form method="POST" enctype="multipart/form-data">
 													IC:
 													<div>

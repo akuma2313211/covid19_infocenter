@@ -33,7 +33,7 @@
                 
                     <div class="row">
                         <br>
-                        <h2 id="content" class="open d-lg-block">Understanding mRNA COVID-19 Vaccines</h2>
+                        <h2 id="content" class="open d-lg-block"><strong>Understanding mRNA COVID-19 Vaccines</strong></h2>
                         <br>
                         <br>
                         <br>
@@ -66,7 +66,7 @@
                                             </div>
                                             <div class="col">
                                                 <iframe width="560" height="315" src="https://www.youtube.com/embed/SR-9Bo2CaRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                <h3 class="card-title h3 mb-3 text-left">A Closer Look at How COVID-19 mRNA Vaccines Work</h3>
+                                                <h3 class="card-title h3 mb-3 text-left"><strong>A Closer Look at How COVID-19 mRNA Vaccines Work</strong></h3>
                                                 <p>COVID-19 mRNA vaccines give instructions for our cells to make a harmless piece of what is called the “spike protein.” 
 												The spike protein is found on the surface of the virus that causes COVID-19.</p>
                                                 
@@ -113,7 +113,7 @@
                                 <div class="card border-0 rounded-0 mb-3">
                                     <div class="card-body ">
 									<img height="300px" src="pictures/mRNA vaccine2.jpg"/>
-                                        <h2 class="card-title h3 mb-3 text-left">What is different about mRNA vaccines?</h2>
+                                        <h2 class="card-title h3 mb-3 text-left"><strong>What is different about mRNA vaccines?</strong></h2>
                                         <p>Some vaccines use a whole virus or bacterium to teach our bodies how to build up immunity to the pathogen.
 										These pathogens are inactivated or attenuated, which means weakened. Other vaccines use parts of viruses or bacteria.</p>
                                         <br>
@@ -140,7 +140,7 @@
                                 <div class="card border-0 rounded-0">
                                     <div class="card-body bg-quaternary">
 									<img height="300px" src="pictures/mRNA vaccine3.jpg"/>
-                                        <h2 class="card-title h3 mb-3 text-left">Benefits of Getting mRNA COVID-19 Vaccine</h2>
+                                        <h2 class="card-title h3 mb-3 text-left"><strong>Benefits of Getting mRNA COVID-19 Vaccine</strong></h2>
 										<p>After receiving 2 doses, this vaccine can reduce the risk of:</p>
 										<br>
                                         <ul>
